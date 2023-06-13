@@ -1,1 +1,0 @@
-<h1>Bem-vindos à nossa página de Cursos</h1>
