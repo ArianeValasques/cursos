@@ -2,7 +2,7 @@ Laravel PHP Framework
 
 O que é este projeto?
 
-Simulação de plataforma fictícia de cadastro de cursos, alunos e registro de matrícula.
+Simulação de plataforma de cadastro de cursos, alunos e registro de matrícula.
 O projeto tem como objetivo aplicar conhecimentos adquiridos para a criação de aplicação utilizando html, CSS, JavaScript e PHP, com o framework Laravel.
 
 Para rodar este projeto
