@@ -26,6 +26,10 @@ Neste projeto, foram utilizadas as seguintes ferramentas:
 -   DataTables (plugin para a biblioteca jQuery para interação com tabelas)
 -   MaskedInput (plugin para máscaras em campos HTML)
 
+
+![cursos](https://github.com/ArianeValasques/cursos/assets/87836797/db29ba8c-ea81-4729-87af-01628d932f9e)
+                                                                                                                    
+
 Anotações/Extras
 
 As seções a seguir são anotações sobre a aplicação e o seu desenvolvimento.
